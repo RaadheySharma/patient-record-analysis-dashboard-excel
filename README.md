@@ -1,7 +1,8 @@
 # 📊 Patient Record Analysis Dashboard (Excel)
 
 ## Project Overview
-This project features a comprehensive end-to-end business dashboard developed using Excel. The dashboard tracks key performance indicators (KPIs) such as the number of patients, average patient wait time, average patient satisfaction score, and other patient-related information over two years.
+This project features a comprehensive end-to-end business dashboard developed in Excel. The dashboard tracks key performance indicators (KPIs) such as the number of patients, average patient wait time, average patient satisfaction score, and other patient-related information over two years.
+
 ---
 
 ## 🎯 Business Objective
